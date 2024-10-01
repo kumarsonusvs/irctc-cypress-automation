@@ -1,10 +1,10 @@
 {
-  "TRAIN_NO": "12295",
+  "TRAIN_NO": "12561",
   "TRAIN_COACH": "3A",
   "TRAVEL_DATE": "02/10/2024",
-  "SOURCE_STATION": "PER",
+  "SOURCE_STATION": "jyg",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DNR",
+  "DESTINATION_STATION": "ndls",
   "TATKAL": false,
   "PREMIUM_TATKAL": true,
   "UPI_ID_CONFIG": "",
